@@ -1,2 +1,1 @@
-# cvitae
-Curriculum vitae
+# John O'Sullivan - Curriculum Vitae
