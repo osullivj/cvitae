@@ -1,0 +1,29 @@
+@startgantt
+projectscale quarterly
+Project starts 1981-09-01
+[ZX81_BASIC] on {pcomp} as [B] starts 1981-09-01
+[B] ends 1981-12-31
+[ZX81_Z80] as [A] on {pcomp} starts 1982-01-01
+[A] ends 1982-12-31
+[O levels] on {edu} as [O] starts 1981-09-01
+[O] ends 1983-07-01
+note bottom
+  4As, 4Bs, 2Cs
+end note
+[A levels] on {edu} as [A] starts at 1983-09-01
+[A] ends 1985-07-01
+note bottom
+  ABCA
+end note
+[Cam math] on {edu} as [C] starts 1984-08-01
+[C] ends 1984-11-15
+note bottom
+  Place: Churchill College
+end note
+[BA] on {edu} starts 1986-10-01
+[BA] ends 1989-06-01
+note bottom
+  Philosophy 2.1, BA Cantab
+  Churchill College, Cambridge
+end note
+@endgantt
