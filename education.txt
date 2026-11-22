@@ -34,9 +34,9 @@ note bottom
 end note
 [romax] as [R] starts 1985-09-01
 [R] is colored in Pink/SeaGreen
-[R] ends 1986-07-01
+[R] ends 1990-11-01
 note bottom
-  Fortran 66
+  Fortran, C, DOS, VMS, Xenix, x86
   Mechanical Engineering
 end note
 [BA] starts 1986-10-01
