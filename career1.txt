@@ -1,0 +1,32 @@
+@startgantt
+projectscale quarterly
+Project starts 1991-01-01
+[Schlumberger GeoQuest] as [S] starts 1991-01-01
+[S] is colored in Pink/SeaGreen
+[S] ends 1996-12-31
+note bottom
+  Petroleum Production
+  Reservoir Simulation
+  C, C++, Fortran
+  Windows, VMS, HP/UX, Solaris, Ultrix, Irix
+  Application Framework Team Lead
+end note
+[Chase Manhattan] as [C] starts 1997-01-01
+[C] is colored in Pink/SeaGreen
+[C] ends 2000-08-31
+note bottom
+  Financial Markets
+  C, C++, Java, Cobol, RPG
+  Windows, Solaris, S/390, OS/400
+  AMS Team Lead
+end note
+[Propylon] as [P] starts 2000-09-01
+[P] is colored in Pink/SeaGreen
+[P] ends 2001-02-28
+[Finetix] as [F] starts 2001-03-01
+[F] is colored in Pink/SeaGreen
+[F] ends 2004-02-28
+hide column Start
+hide column End
+hide column Duration
+@endgantt
