@@ -11,6 +11,13 @@ note bottom
   Windows, VMS, HP/UX, Solaris, Ultrix, Irix
   Application Framework Team Lead
 end note
+[From Fortran to GUI to C++] happens at 1993-07-15
+note bottom
+  From Fortran to GUI to C++
+  David Heath, Richard Esau, John O'Sullivan
+  European C++ Users Group
+  Munich July 1993
+end note
 [Chase Manhattan] as [C] starts 1997-01-01
 [C] is colored in Pink/SeaGreen
 [C] ends 2000-08-31
