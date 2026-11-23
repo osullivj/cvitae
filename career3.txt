@@ -13,6 +13,9 @@ Project starts 2012-07-01
 [AMAG G4S] as [G] starts 2016-11-01
 [G] is colored in Orange/SeaGreen
 [G] ends 2017-05-31
+[Bank of America] as [M] starts 2017-08-15
+[M] is colored in Orange/SeaGreen
+[M] ends 2024-05-31
 hide column Start
 hide column End
 hide column Duration
