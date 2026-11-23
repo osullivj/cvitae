@@ -2,13 +2,13 @@
 projectscale quarterly
 Project starts 1981-09-01
 [ZX81 Basic] as [B] starts 1981-09-01
-[B] is colored in Pink/SeaGreen
+[B] is colored in Silver/SeaGreen
 [B] ends 1981-12-31
 [ZX81 Z80] as [Z] starts 1982-01-01
-[Z] is colored in Pink/SeaGreen
+[Z] is colored in Silver/SeaGreen
 [Z] ends 1982-12-31
 [Lynx] as [L] starts 1983-01-01
-[L] is colored in Pink/SeaGreen
+[L] is colored in Silver/SeaGreen
 [L] ends 1983-12-31
 note bottom
   Camputers Lynx Z80 micro
@@ -46,6 +46,11 @@ note bottom
   Philosophy 2.1, BA Cantab
   Churchill College, Cambridge
 end note
+legend top right
+|<#Silver>Education |
+|<#Pink>Permie |
+|<#Orange>Contract |
+end legend
 hide column Start
 hide column End
 hide column Duration
