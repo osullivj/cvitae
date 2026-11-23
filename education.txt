@@ -3,6 +3,7 @@ projectscale quarterly
 Project starts 1981-09-01
 [ZX81 Basic] as [B] starts 1981-09-01
 [B] is colored in Silver/SeaGreen
+[B] links to [[https://vintagecomputermuseum.com/collection/sinclair-zx81/{Sinclair ZX81}]]
 [B] ends 1981-12-31
 [ZX81 Z80] as [Z] starts 1982-01-01
 [Z] is colored in Silver/SeaGreen
