@@ -23,9 +23,6 @@ end note
 [Propylon] as [P] starts 2000-09-01
 [P] is colored in Pink/SeaGreen
 [P] ends 2001-02-28
-[Finetix] as [F] starts 2001-03-01
-[F] is colored in Pink/SeaGreen
-[F] ends 2004-02-28
 hide column Start
 hide column End
 hide column Duration

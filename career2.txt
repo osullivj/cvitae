@@ -1,6 +1,14 @@
 @startgantt
 projectscale quarterly
-Project starts 2004-03-01
+Project starts 2001-03-01
+[Finetix] as [F] starts 2001-03-01
+[F] is colored in Pink/SeaGreen
+[F] ends 2004-02-28
+note bottom
+  Financial Markets
+  C, C++
+  Windows, Linux
+end note
 [Barclays Capital] as [C] starts 2004-03-01
 [C] is colored in Pink/SeaGreen
 [C] ends 2010-05-31
