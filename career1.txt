@@ -11,21 +11,6 @@ note bottom
   Windows, VMS, HP/UX, Solaris, Ultrix, Irix
   Application Framework Team Lead
 end note
-[From Fortran to GUI to C++] happens at 1993-07-15
-note bottom
-  From Fortran to GUI to C++
-  David Heath, Richard Esau & John O'Sullivan
-  European C++ Users Group
-  Munich July 1993
-end note
-[AVS/Express Case Study] happens at 1995-04-19
-note bottom
-  AVS/Express Case Study
-  Howard Watkins, John O'Sullivan,\n
-    David Heath & Peter Yerburgh
-  AVS 95 Conference
-  Boston MA Apr 1995
-end note
 [Chase Manhattan] as [C] starts 1997-01-01
 [C] is colored in Pink/SeaGreen
 [C] ends 2000-08-31
@@ -35,6 +20,32 @@ note bottom
   Windows, Solaris, S/390, OS/400
   AMS Team Lead
 end note
+[Propylon] as [P] starts 2000-09-01
+[P] is colored in Pink/SeaGreen
+[P] ends 2001-02-28
+-- Three conference papers, and a book --
+[From Fortran to GUI to C++] happens at 1993-07-15
+note bottom
+  From Fortran to GUI to C++
+  David Heath, Richard Esau & John O'Sullivan
+  European C++ Users Group
+  Munich July 1993
+end note
+[AVS/Express Case Study] as [X] happens at 1995-04-19
+note bottom
+  AVS/Express Case Study
+  Howard Watkins, John O'Sullivan,\n
+    David Heath & Peter Yerburgh
+  AVS 95 Conference
+  Boston MA Apr 1995
+end note
+[Enterprise Client Server Technology] happens at 1995-11-19
+note bottom
+  Enterprise Client/Server Technology: Massively Parallel Processing for Business
+  John Zamick, Ray Warren, John O'Sullivan
+  ITCP 1995-11-19
+  ISBN 1-85032-146-9
+end note
 [XML Messaging at Chase Manhattan] happens at 1998-11-17
 note bottom
   XML Messaging at Chase Manhattan
@@ -42,9 +53,6 @@ note bottom
   XML 98 Conference
   Chicago IL Nov 1998
 end note
-[Propylon] as [P] starts 2000-09-01
-[P] is colored in Pink/SeaGreen
-[P] ends 2001-02-28
 hide column Start
 hide column End
 hide column Duration
