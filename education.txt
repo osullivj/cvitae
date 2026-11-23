@@ -17,7 +17,8 @@ note bottom
   I ported FIG's 8080 Forth to Camputers Lynx
   by hand assembling to Z80 machine code 
 end note
-[Lynx Forth] happens at [L]'s end
+[Lynx Forth] as [F] happens at [L]'s end
+[F] links to [[https://www.forth.org/fig-forth/fig-forth_8080_ver_11.pdf{FIG 8080 Forth}]]
 [O levels] as [O] starts 1981-09-01
 [O] is colored in Silver/SeaGreen
 [O] ends 1983-07-01
