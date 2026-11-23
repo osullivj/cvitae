@@ -18,7 +18,7 @@ note bottom
   European C++ Users Group
   Munich July 1993
 end note
-[AVS/Express Case Study] happens at 1993-07-15
+[AVS/Express Case Study] happens at 1995-04-19
 note bottom
   From Fortran to GUI to C++
   Howard Watkins, John O'Sullivan, David Heath, Peter Yerburgh
