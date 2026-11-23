@@ -1,0 +1,19 @@
+@startgantt
+projectscale quarterly
+Project starts 2012-07-01
+[Barclays] as [B] starts 2012-07-01
+[B] is colored in Orange/SeaGreen
+[B] ends 2014-06-30
+[Abide Financial] as [A] starts 2015-01-01
+[A] is colored in Orange/SeaGreen
+[A] ends 2015-06-30
+[Capita Mortgage Systems] as [C] starts 2015-07-01
+[C] is colored in Orange/SeaGreen
+[C] ends 2016-06-30
+[AMAG G4S] as [G] starts 2016-11-01
+[G] is colored in Orange/SeaGreen
+[G] ends 2017-05-31
+hide column Start
+hide column End
+hide column Duration
+@endgantt

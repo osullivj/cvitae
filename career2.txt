@@ -25,9 +25,6 @@ note bottom
   C, C++, Java, Cobol, RPG
   Windows, Solaris, S/390, OS/400
 end note
-[Barclays] as [B] starts 2012-07-01
-[B] is colored in Pink/SeaGreen
-[B] ends 2014-06-30
 hide column Start
 hide column End
 hide column Duration
