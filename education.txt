@@ -7,12 +7,15 @@ Project starts 1981-09-01
 [B] ends 1981-12-31
 [ZX81 Z80] as [Z] starts 1982-01-01
 [Z] is colored in Silver/SeaGreen
+[Z] links to [[https://users.ox.ac.uk/~uzdm0006/scans/1kchess/{Z80 1K chess}]]
 [Z] ends 1982-12-31
 [Lynx] as [L] starts 1983-01-01
+[L] links to [[https://www.theregister.com/on-prem/2013/03/20/the-lynx-effect-the-story-of-camputers-mighty-micro/267228{Camputers Lynx}]]
 [L] is colored in Silver/SeaGreen
 [L] ends 1983-12-31
 note bottom
-  Camputers Lynx Z80 micro
+  I ported FIG's 8080 Forth to Camputers Lynx
+  by hand assembling to Z80 machine code 
 end note
 [Lynx Forth] happens at [L]'s end
 [O levels] as [O] starts 1981-09-01
