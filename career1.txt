@@ -18,6 +18,13 @@ note bottom
   European C++ Users Group
   Munich July 1993
 end note
+[AVS/Express Case Study] happens at 1993-07-15
+note bottom
+  From Fortran to GUI to C++
+  Howard Watkins, John O'Sullivan, David Heath, Peter Yerburgh
+  AVS 95 Conference
+  Boston MA Apr 1995
+end note
 [Chase Manhattan] as [C] starts 1997-01-01
 [C] is colored in Pink/SeaGreen
 [C] ends 2000-08-31
