@@ -14,14 +14,15 @@ end note
 [From Fortran to GUI to C++] happens at 1993-07-15
 note bottom
   From Fortran to GUI to C++
-  David Heath, Richard Esau, John O'Sullivan
+  David Heath, Richard Esau & John O'Sullivan
   European C++ Users Group
   Munich July 1993
 end note
 [AVS/Express Case Study] happens at 1995-04-19
 note bottom
-  From Fortran to GUI to C++
-  Howard Watkins, John O'Sullivan, David Heath, Peter Yerburgh
+  AVS/Express Case Study
+  Howard Watkins, John O'Sullivan,\n
+    David Heath & Peter Yerburgh
   AVS 95 Conference
   Boston MA Apr 1995
 end note
@@ -33,6 +34,13 @@ note bottom
   C, C++, Java, Cobol, RPG
   Windows, Solaris, S/390, OS/400
   AMS Team Lead
+end note
+[XML Messaging at Chase Manhattan] happens at 1998-11-17
+note bottom
+  XML Messaging at Chase Manhattan
+  John O'Sullivan
+  XML 98 Conference
+  Chicago IL Nov 1998
 end note
 [Propylon] as [P] starts 2000-09-01
 [P] is colored in Pink/SeaGreen
