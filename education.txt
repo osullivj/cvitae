@@ -1,4 +1,12 @@
 @startgantt
+<style>
+title {
+  FontName Helvetica
+  FontSize 22
+  FontColor #1f2937
+  FontStyle bold
+}
+</style>
 title John O'Sullivan
 projectscale quarterly
 Project starts 1981-09-01
