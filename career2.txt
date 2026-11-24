@@ -5,25 +5,28 @@ Project starts 2001-03-01
 [F] is colored in Pink/SeaGreen
 [F] ends 2004-02-28
 note bottom
-  Financial Markets
-  C, C++
-  Windows, Linux
+  Financial Markets Tech Consultancy
+  DB, JPMC, CIBC
+  C++, Java, C#, Smalltalk
+  Windows, Solaris, Linux
+  IBM MQ series, BEA WebLogic, Oracle
 end note
 [Barclays Capital] as [C] starts 2004-03-01
 [C] is colored in Pink/SeaGreen
 [C] ends 2010-05-31
 note bottom
-  Financial Markets
-  C, C++
-  Windows, Linux
+  Linear & Exotic Rates etrading
+  C++, Python, C#, Java, R, SQL
+  Windows, Linux, Caplin, MKV ION
 end note
 [JP Morgan] as [J] starts 2010-09-01
 [J] is colored in Pink/SeaGreen
 [J] ends 2012-06-30
 note bottom
-  Financial Markets
-  C, C++, Java, Cobol, RPG
-  Windows, Solaris, S/390, OS/400
+  Cash FX etrading booking
+  Python, C++, Java
+  Linux, Windows
+  Athena
 end note
 hide column Start
 hide column End

@@ -1,20 +1,53 @@
 @startgantt
+<style>
+ganttDiagram {
+  task {
+    BackGroundColor Orange
+    LineColor SeaGreen 
+  }
+  undone {
+    BackGroundColor Pink
+  }
+}
+</style>
 projectscale quarterly
 Project starts 2012-07-01
 [Barclays] as [B] starts 2012-07-01
-[B] is colored in Orange/SeaGreen
+[B] is 100% complete
 [B] ends 2014-06-30
+note bottom
+  Linear CHF Rates & MM etrading
+  C++, Python, Java, Windows, Linux
+  New CHF BBG page, MM blotter & FIX gateway.
+end note
 [Abide Financial] as [A] starts 2015-01-01
-[A] is colored in Orange/SeaGreen
+note bottom
+  Regulation driven derivatives reporting startup
+  EMIR Open Position 3 way recon service in Python
+  including Tornado Web Server with Bootstrap CSS GUI, 
+  scheduled batch jobs and with auto generated Excel 
+  open position reports. 
+end note
+[A] is 100% complete
 [A] ends 2015-06-30
 [Capita Mortgage Systems] as [C] starts 2015-07-01
-[C] is colored in Orange/SeaGreen
+[C] is 100% complete
 [C] ends 2016-06-30
+note bottom
+Features and fixes for Omiga3 mortgage origination system Windows
+MFC C++ GUI with C++ & C# servers for Virgin Money BTL Review,
+EU Directive regulatory requirements and HomeTrack automated
+valuations with VME Cobol update.
+end note
 [AMAG G4S] as [G] starts 2016-11-01
 [G] is colored in Orange/SeaGreen
 [G] ends 2017-05-31
+note bottom
+Windows MFC C++ & C# client & server coding new features on
+Symmetry building access system.
+end note
 [Bank of America] as [M] starts 2017-08-15
-[M] is colored in Pink/SeaGreen
+[M] is 40% complete
 [M] ends 2024-05-31
 hide column Start
 hide column End
