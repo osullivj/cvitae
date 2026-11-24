@@ -42,9 +42,11 @@ end note
 [R] ends 1990-11-01
 note bottom
   Fortran, C, DOS, VMS, Xenix, x86
-  Mechanical Engineering
+  Mechanical Engineering software for rotating machinery
+  design and analysis. Used for gearbox design.
 end note
 [BA] starts 1986-10-01
+[BA] links to [[https://www.chu.cam.ac.uk{Churchill College, Cambridge}]]
 [BA] is colored in Silver/SeaGreen
 [BA] ends 1989-06-01
 note bottom
