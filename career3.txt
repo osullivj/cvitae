@@ -49,6 +49,12 @@ end note
 [Bank of America] as [M] starts 2017-08-15
 [M] is 40% complete
 [M] ends 2024-05-31
+note bottom
+Started as a Qz Python contractor building LCH Clearing for
+FXVanilla European options. Joined Commaon Risk Book in
+2019 as permie to work on cash equity internalisation in C++
+and Python.
+end note
 hide column Start
 hide column End
 hide column Duration

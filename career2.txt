@@ -25,8 +25,7 @@ end note
 note bottom
   Cash FX etrading booking
   Python, C++, Java
-  Linux, Windows
-  Athena
+  Linux, Windows, Athena
 end note
 hide column Start
 hide column End
