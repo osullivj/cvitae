@@ -3,6 +3,7 @@ projectscale quarterly
 Project starts 1991-01-01
 [Schlumberger GeoQuest] as [S] starts 1991-01-01
 [S] is colored in Pink/SeaGreen
+[S] links to [[https://www.slb.com/products-and-services/delivering-digital-at-scale/software/eclipse-industry-reference-reservoir-simulator/eclipse{Reservoir Simulation}]]
 [S] ends 1996-12-31
 note bottom
   Petroleum Production
@@ -13,6 +14,7 @@ note bottom
 end note
 [Chase Manhattan] as [C] starts 1997-01-01
 [C] is colored in Pink/SeaGreen
+[C] links to [[https://en.wikipedia.org/wiki/Chase_Bank{Chase Manhattan}]]
 [C] ends 2000-08-31
 note bottom
   Financial Markets
@@ -29,6 +31,7 @@ note bottom
 end note
 -- A book... --
 [Enterprise Client/Server Technology] as [E] starts 1995-05-01
+[E] links to [[https://www.amazon.co.uk/Enterprise-Client-Server-Technology-Processing/dp/1850321469?th=1]]
 [E] ends 1995-11-17
 note bottom
   Enterprise Client/Server Technology: Massively Parallel Processing for Business
