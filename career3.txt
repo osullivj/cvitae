@@ -20,6 +20,9 @@ note bottom
   C++, Python, Java, Windows, Linux
   New CHF BBG page, MM blotter & FIX gateway.
 end note
+[SpreadServer] as [S] starts 2014-07-01
+[S] is colored in Silver/SeaGreen
+[S] ends 2019-12-31
 [Abide Financial] as [A] starts 2015-01-01
 note bottom
   Regulation driven derivatives reporting startup
