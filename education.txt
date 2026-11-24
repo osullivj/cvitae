@@ -1,4 +1,5 @@
 @startgantt
+title John O'Sullivan
 projectscale quarterly
 Project starts 1981-09-01
 [ZX81 Basic] as [B] starts 1981-09-01
