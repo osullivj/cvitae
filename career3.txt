@@ -20,8 +20,14 @@ note bottom
   C++, Python, Java, Windows, Linux
   New CHF BBG page, MM blotter & FIX gateway.
 end note
-[SpreadServer] as [S] starts 2014-07-01
+[SpreadServe] as [S] starts 2014-07-01
+note bottom
+  Startup project: serverization of Excel spreadsheets. Tornado Python backend
+  serves AngularJS GUI, with JS web sockets to support ticking data pushed up 
+  from the Windows hosted Excel server engine which supports native XLLs.
+end note
 [S] is colored in Silver/SeaGreen
+[s] links to [[https://github.com/osullivj/cvitae/wiki/SpreadServe{SpreadServe Story}]]
 [S] ends 2019-12-31
 [Abide Financial] as [A] starts 2015-01-01
 note bottom
